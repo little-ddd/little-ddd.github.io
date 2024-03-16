@@ -3,8 +3,8 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Little-DDD",
-  tagline: "Dinosaurs are cool",
+  title: "小弟弟框架",
+  tagline: "致力于 易用的 ddd 落地方案",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
