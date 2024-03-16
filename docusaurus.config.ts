@@ -72,6 +72,10 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
+          type: "localeDropdown",
+          position: "right",
+        },
+        {
           href: 'https://github.com/little-ddd',
           label: 'GitHub',
           position: 'right',
