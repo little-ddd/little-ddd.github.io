@@ -127,7 +127,7 @@ const config: Config = {
               href: "https://github.com/little-ddd",
             },
             {
-              label: "Build ci",
+              label: "Build CI",
               href: "https://github.com/little-ddd/little-ddd.github.io/actions",
             },
           ],
