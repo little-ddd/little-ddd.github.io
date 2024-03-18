@@ -99,11 +99,15 @@ const config: Config = {
           items: [
             {
               label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              href: "https://stackoverflow.com/questions/tagged/little-ddd",
             },
             {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              label: "Discussions",
+              href: "https://github.com/orgs/little-ddd/discussions",
+            },
+            {
+              label: "Zhihu",
+              href: "https://www.zhihu.com/column/c_1563574904225505280",
             },
             {
               label: "Twitter",
