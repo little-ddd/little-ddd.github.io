@@ -111,7 +111,7 @@ const config: Config = {
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/docusaurus",
+              href: "https://twitter.com/yishenggudou",
             },
           ],
         },
@@ -127,7 +127,7 @@ const config: Config = {
               href: "https://github.com/little-ddd",
             },
             {
-              label: "build ci",
+              label: "Build ci",
               href: "https://github.com/little-ddd/little-ddd.github.io/actions",
             },
           ],
